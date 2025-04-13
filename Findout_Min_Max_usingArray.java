@@ -33,7 +33,7 @@ public class Findout_Min_Max_usingArray {
         n=sc.nextInt();
         //creates an array in the memory of length 10
         int[] array = new int[10];
-        System.out.println("Enter the elements of the array: ");
+        System.out.println("Enter the all elements of the array: ");
         for(int i=0; i<n; i++)
         {
             //reading array elements from the user
